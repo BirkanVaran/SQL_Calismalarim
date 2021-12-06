@@ -7,12 +7,20 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		SqlQuery_1.1 = SqlQuery_1.1
 		..\..\..\Desktop\SQLQuery_1.1.sql = ..\..\..\Desktop\SQLQuery_1.1.sql
+		..\..\..\Desktop\SQLQuery_1.10.sql = ..\..\..\Desktop\SQLQuery_1.10.sql
+		..\..\..\Desktop\SQLQuery_1.11.sql = ..\..\..\Desktop\SQLQuery_1.11.sql
+		..\..\..\Desktop\SQLQuery_1.12.sql = ..\..\..\Desktop\SQLQuery_1.12.sql
+		..\..\..\Desktop\SQLQuery_1.13.sql = ..\..\..\Desktop\SQLQuery_1.13.sql
+		..\..\..\Desktop\SQLQuery_1.14.sql = ..\..\..\Desktop\SQLQuery_1.14.sql
+		..\..\..\Desktop\SQLQuery_1.15.sql = ..\..\..\Desktop\SQLQuery_1.15.sql
 		..\..\..\Desktop\SQLQuery_1.2.sql = ..\..\..\Desktop\SQLQuery_1.2.sql
 		..\..\..\Desktop\SQLQuery_1.3.sql = ..\..\..\Desktop\SQLQuery_1.3.sql
 		..\..\..\Desktop\SQLQuery_1.4.sql = ..\..\..\Desktop\SQLQuery_1.4.sql
 		..\..\..\Desktop\SQLQuery_1.5.sql = ..\..\..\Desktop\SQLQuery_1.5.sql
 		..\..\..\Desktop\SQLQuery_1.6.sql = ..\..\..\Desktop\SQLQuery_1.6.sql
 		..\..\..\Desktop\SQLQuery_1.7.sql = ..\..\..\Desktop\SQLQuery_1.7.sql
+		..\..\..\Desktop\SQLQuery_1.8.sql = ..\..\..\Desktop\SQLQuery_1.8.sql
+		..\..\..\Desktop\SQLQuery_1.9.sql = ..\..\..\Desktop\SQLQuery_1.9.sql
 		SQLTablesCreateQueries.sql = SQLTablesCreateQueries.sql
 	EndProjectSection
 EndProject
